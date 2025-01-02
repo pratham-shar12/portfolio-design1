@@ -324,6 +324,10 @@
     .project{
       border: none;
     }
+  . project-title img{
+      height:100px;
+      width:100px;
+  }
     .form{
       height: 600px;
     }
